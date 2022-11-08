@@ -63,13 +63,11 @@ nav ul li a:hover {
 #conteudo{
     width: 710px;
     float: left;
-    background: green;
 }
 
 aside {
     width: 350px;
     float: right;
-    background: #ebe7dd;
     padding-bottom: 30px;
 }
 
@@ -94,6 +92,41 @@ section#galeria a {
 section#galeria img {
     margin-left: 2px;
     margin-top: 4px;
+}
+
+article#video {
+    float: left;
+    width: 310px;
+    margin-left: 25px;
+}
+
+article#mapa {
+    float: left;
+    width: 310px;
+    margin-left: 37px;
+}
+
+article#exposicoes {
+    float: left;
+    width: 310px;
+    margin: 15px 0 0 25px;
+}
+
+article#historia {
+    float: left;
+    width: 310px;
+    margin: 15px 0 0 37px;
+}
+
+article#historia p {
+    text-align: justify;
+}
+
+h3{
+    color: #227115;
+    font-size: 1.0em;
+    margin-bottom: 15px;
+    text-transform: uppercase;
 }
 
 h4 {
