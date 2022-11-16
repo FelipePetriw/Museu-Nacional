@@ -1,7 +1,7 @@
 # Museu Nacional
  
 ## 💻 Sobre o Projeto
-Desenvolvimento da página inicial de um site fictício do museu Nacional, utilizando apenas as tecnologias HTML e CSS..
+Desenvolvimento da página inicial de um site fictício do museu Nacional, utilizando apenas as tecnologias HTML e CSS.
 
 Sendo possível realizar a reserva de visitação, conhecer a história e localização do museu, verificar exposições que estão ocorrendo.
 
